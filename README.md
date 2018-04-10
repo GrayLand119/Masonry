@@ -7,5 +7,5 @@ This project forked from SnapKit/Masonry, Support Carthage.
 ## Install
 
 ```
-github "GrayLand119/Masonry" == 1.1.0
+github "GrayLand119/Masonry" == 1.1.1
 ```
